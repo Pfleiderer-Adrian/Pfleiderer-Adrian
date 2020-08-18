@@ -1,7 +1,7 @@
 <img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png"></img>
 
-### Hello World! 
-I'm a german computher sience student with a passion for new technology, chess and art.
+### 🌍 Hello World! 
+I'm a 25 years old german computer sience student with a passion for new technology, chess and art.
 
 ### 🔭 I'm working on.. 
 - the M.Sc degree in computer science at the University Augsburg
@@ -16,7 +16,11 @@ I'm a german computher sience student with a passion for new technology, chess a
 - languages: C#, Python, SQL, ..
 - environments: MS .NET, Docker, Android, ..
 
-### 💻 My current stats on GitHub
+### ☕ Get in touch
+- Twitter: <a href="https://twitter.com/_Scott_x">_Scott_x</a>
+- Mail: <a href="adrian.pfleiderer@web.de">adrian.pfleiderer@web.de</a>
+
+### 📈 My current stats on GitHub
 ![github stats](https://github-readme-stats.vercel.app/api?username=Pfleiderer-Adrian&show_icons=true)
 
 <!--
