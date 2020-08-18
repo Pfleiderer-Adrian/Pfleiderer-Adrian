@@ -1,4 +1,4 @@
-<img src= "images/banner6.png"></img>
+<img src="images/banner6.png"></img>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Pfleiderer-Adrian&show_icons=true)
 <!--
