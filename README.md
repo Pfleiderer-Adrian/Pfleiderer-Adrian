@@ -1,4 +1,4 @@
-<img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png" width="90%" height="90%"></img>
+<img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png" width="90%" height="90%" alt="HTML ERROR"></img>
 
 ### 🌍 Hello World! 
 I'm 25 years old and a german computer sience student with a passion for new technology, chess and art.
