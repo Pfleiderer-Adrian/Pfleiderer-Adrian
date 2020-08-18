@@ -1,18 +1,18 @@
 <img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png" width="90%" height="90%" alt="HTML ERROR"></img>
 
 ### 🌍 Hello World! 
-I'm 25 years old and a german computer sience student with a passion for new technology, chess and art.
+I'm 25 years old and a German computer sience student with a passion for new technology, chess and art.
 
 ### 🔭 I'm working on.. 
-- the M.Sc degree in computer science at the University Augsburg
-- internal Tools as Software Developer at Syntology GmbH
-- a automated PokerBot to beat human players
+- the M.Sc degree in computer science at the University of Augsburg
+- internal tools as software developer at Syntology GmbH
+- an automated PokerBot to beat human players
 
 ### 🌱 I'm currently learning..
-- create and solve complex problems with deep neural networks
+- to create and solve complex problems with deep neural networks
 - chess openings and cooking
 
-### ⚡ Technologies i use..
+### ⚡ Technologies I use..
 - languages: C#, Python, SQL, ..
 - environments: MS .NET, Docker, Android, ..
 
