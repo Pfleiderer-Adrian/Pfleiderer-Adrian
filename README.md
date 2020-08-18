@@ -10,7 +10,7 @@ I'm 25 years old and a german computer sience student with a passion for new tec
 
 ### 🌱 I'm currently learning..
 - create and solve complex problems with deep neural networks
-- chess openings and spanish
+- chess openings and cooking
 
 ### ⚡ Technologies i use..
 - languages: C#, Python, SQL, ..
