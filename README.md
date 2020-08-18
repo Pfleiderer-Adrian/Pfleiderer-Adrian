@@ -1,7 +1,7 @@
 <img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png"></img>
 
 ### 🌍 Hello World! 
-I'm a 25 years old german computer sience student with a passion for new technology, chess and art.
+I'm 25 years old and a german computer sience student with a passion for new technology, chess and art.
 
 ### 🔭 I'm working on.. 
 - the M.Sc degree in computer science at the University Augsburg
