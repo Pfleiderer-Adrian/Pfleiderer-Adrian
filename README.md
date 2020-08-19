@@ -5,7 +5,7 @@ I'm a German computer sience student with a passion for new technology, chess an
 
 ### 🔭 I'm working on.. 
 - the M.Sc degree in computer science at the University of Augsburg
-- internal tools as software developer at Syntology GmbH
+- internal tools as software developer at Syntegon GmbH
 - an automated PokerBot to beat human players
 
 ### 🌱 I'm currently learning..
