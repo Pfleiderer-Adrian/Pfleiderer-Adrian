@@ -1,4 +1,4 @@
-<img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png" width="90%" height="90%" alt="HTML ERROR"></img>
+<img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png" width="80%" height="80%" alt="HTML ERROR"></img>
 
 ### 🌍 Hello World! 
 I'm a German computer sience student with a passion for new technology, chess and art.
