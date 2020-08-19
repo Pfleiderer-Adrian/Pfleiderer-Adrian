@@ -1,10 +1,10 @@
 <img src="https://github.com/Pfleiderer-Adrian/Pfleiderer-Adrian/blob/master/images/banner8.png" width="100%" height="100%" alt="HTML ERROR"></img>
 
 ### 🌍 Hello World! 
-I'm a German computer sience student with a passion for new technology, chess and art.
+I'm a German computer science student with a passion for new technology, chess and art.
 
 ### 🔭 I'm working on.. 
-- the M.Sc degree in computer science at the University of Augsburg
+- M.Sc degree in computer science at the University of Augsburg
 - internal tools as software developer at Syntegon Technology GmbH
 - an automated PokerBot to beat human players
 
