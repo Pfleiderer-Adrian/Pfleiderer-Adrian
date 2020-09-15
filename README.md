@@ -17,7 +17,6 @@ I'm a German computer science student with a passion for new technology, chess a
 - environments: MS .NET, Docker, Android, ..
 
 ### ☕ Get in touch..
-- Twitter: <a href="https://twitter.com/_Scott_x">_Scott_x</a>
 - Mail: <a href="adrian.pfleiderer@web.de">adrian.pfleiderer@web.de</a>
 
 ### 📈 My current stats on GitHub
