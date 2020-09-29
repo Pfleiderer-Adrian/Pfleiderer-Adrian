@@ -10,7 +10,7 @@ I'm a German computer science student with a passion for new technology.
 
 ### 🌱 I'm currently learning..
 - to create and solve complex problems with deep neural networks
-- chess openings and cooking
+- chess and cooking
 
 ### ⚡ Technologies I use..
 - languages: C#, Python, SQL, ..
