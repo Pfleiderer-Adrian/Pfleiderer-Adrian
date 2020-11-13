@@ -19,10 +19,10 @@ I'm a German computer science student with a passion for new technology.
 ### ☕ Get in touch..
 - Mail: <a href="adrian.pfleiderer@web.de">adrian.pfleiderer@web.de</a>
 
+<!--
 ### 📈 My current stats on GitHub
 ![github stats](https://github-readme-stats.vercel.app/api?username=Pfleiderer-Adrian&show_icons=true)
 
-<!--
 **Pfleiderer-Adrian/Pfleiderer-Adrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
