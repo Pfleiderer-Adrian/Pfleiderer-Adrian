@@ -17,7 +17,7 @@ I'm a German computer science student with a passion for new technology.
 - environments: MS .NET, Docker, Android, ..
 
 ### ☕ Get in touch..
-- Mail: <a href="github@adrian-pfleiderer.de">adrian.pfleiderer@web.de</a>
+- Mail: <a href="github@adrian-pfleiderer.de">github@adrian-pfleiderer.de</a>
 
 <!--
 ### 📈 My current stats on GitHub
