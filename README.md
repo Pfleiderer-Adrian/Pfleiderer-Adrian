@@ -5,8 +5,11 @@ I'm a German computer science student with a passion for new technology.
 
 ### 🔭 I'm working on.. 
 - M.Sc degree in computer science at the University of Augsburg
-- internal tools as software developer at Syntegon Technology GmbH
-- an automated PokerBot to beat human players
+- cyber and data security at Webasto SE
+
+### I gained previous experience as..
+- software developer at Syntegon Technology GmbH
+- test engineer at AraCom IT Services AG
 
 ### 🌱 I'm currently learning..
 - to create and solve complex problems with deep neural networks
