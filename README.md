@@ -7,7 +7,7 @@ I'm a German computer science student with a passion for new technology.
 - M.Sc degree in computer science at the University of Augsburg
 - cyber and data security at Webasto SE
 
-### I gained previous experience as..
+### 📈 I gained previous experience as..
 - software developer at Syntegon Technology GmbH
 - test engineer at AraCom IT Services AG
 
