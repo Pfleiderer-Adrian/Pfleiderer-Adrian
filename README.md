@@ -5,9 +5,10 @@ I'm a German computer science student with a passion for new technology.
 
 ### 🔭 I'm working on.. 
 - M.Sc degree in computer science at the University of Augsburg
-- cyber and data security at Webasto SE
+- it-infrastructure at the university clinic of Augsburg
 
 ### 📈 I gained experience as..
+- test engineer for cyber and data security at Webasto SE
 - software developer at Syntegon Technology GmbH
 - test engineer at AraCom IT Services AG
 
