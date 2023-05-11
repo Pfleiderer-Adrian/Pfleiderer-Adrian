@@ -4,10 +4,11 @@
 I'm a German computer science student with a passion for new technology.
 
 ### 🔭 I'm working on.. 
-- M.Sc degree in computer science at the University of Augsburg
-- it-infrastructure at the university clinic of Augsburg
+- PhD degree in computer science at the University of Augsburg
+- AI-automated quality assurance systems
 
 ### 📈 I gained experience as..
+- administrator for it-infrastructure at the university clinic of Augsburg
 - test engineer for cyber and data security at Webasto SE
 - software developer at Syntegon Technology GmbH
 - test engineer at AraCom IT Services AG
