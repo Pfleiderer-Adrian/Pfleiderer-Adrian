@@ -23,7 +23,8 @@ I'm a German computer science student with a passion for new technology.
 
 ### ☕ Get in touch..
 - Mail: <a href="github@adrian-pfleiderer.de">github@adrian-pfleiderer.de</a>
-
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="adrian-pfleiderer-ba5196273" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/adrian-pfleiderer-ba5196273?trk=profile-badge">Adrian Pfleiderer</a></div>
+              
 <!--
 ### 📈 My current stats on GitHub
 ![github stats](https://github-readme-stats.vercel.app/api?username=Pfleiderer-Adrian&show_icons=true)
